@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This PreWork Study guide provide a way for me to build a site that I can practice the skilss that I'm learning and also have a tool to go back and study.  
 
 ## Installation
